@@ -1,0 +1,57 @@
+body {
+    background-color:chocolate;
+}
+#header {
+	height:5em;
+	text-align:right;
+	background-color:#d67022;
+	border-radius:3em;
+	box-shadow:inset 0 0 2em black;
+}
+.header {
+	display:inline;
+	padding:1em;
+	line-height:2em;
+    font-family:Tahoma;
+    font-weight:bold;
+    font-size:2em;
+}
+#top {
+    border:2em solid black;
+    background-color:chocolate;
+    font-family:Tahoma;
+    font-size:1.5em;
+    padding:1em 1em 1em 1em;
+    margin:1em 1em 1em 1em;
+}
+#middle {
+    border:2em solid black;
+    background-color:chocolate;
+    font-family:Tahoma;
+    font-size:1.5em;
+    padding:1em 1em 1em 1em;
+    margin:1em 1em 1em 1em;
+}
+#bottom {
+    border:2em solid black;
+    background-color:chocolate;
+    font-family:Tahoma;
+    font-size:1.5em;
+    padding:1em 1em 1em 1em;
+    margin:1em 1em 1em 1em;
+}
+a:visited {
+    color:black;
+}
+a:hover {
+    background-image:url(tigerbutton.jpg);
+    background-position:center top;
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+a {
+    text-decoration: none;
+}
+span {
+    text-decoration:underline;
+}
